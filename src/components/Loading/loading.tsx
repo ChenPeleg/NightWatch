@@ -7,7 +7,7 @@ import {SessionModel} from '../../store/store.types';
 const loadingSx: SxProps = {
     position: 'absolute',
     top: '70px',
-    left: '10px',
+    right: '20px',
     height: '80px',
     width: '80px',
     zIndex: 10000
