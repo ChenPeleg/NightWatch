@@ -94,7 +94,7 @@ export const FileUploadDialog = (props: FileUploadProps) => {
                     }}>
 
 
-                        <Select dir={'rtl'} disableUnderline={true} variant={'standard'}
+                        <Select dir={'ltr'} disableUnderline={true} variant={'standard'}
                                 defaultValue={defaultId}
                                 sx={{
 

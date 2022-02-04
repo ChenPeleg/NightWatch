@@ -9,7 +9,7 @@ import {SxProps} from '@mui/system';
 // @ts-ignore
 // @ts-ignore
 export const themeMain: Theme = createTheme({
-    direction: 'rtl',
+    direction: 'ltr',
     typography: {
         fontFamily: 'Segoe UI, sans-serif',
         h1: {

@@ -167,7 +167,7 @@ export const AppNavBar = () => {
     const menuId = 'primary-search-account-menu';
     const shmiraListMenuId = 'primary-search-account-menu-mobile';
     return (
-        <Box dir="rtl"
+        <Box dir="ltr"
         >
             <AppBar position="static" sx={{
                 mr: 0,
@@ -194,8 +194,8 @@ export const AppNavBar = () => {
                             }
                         }}
                     >    &nbsp; &nbsp;
-                        {translations.ShmiraList}
-                        <Select dir={'rtl'} disableUnderline={true} variant={'standard'} value={shmiraListId}
+                        {translations.ShmiraList}   &nbsp; &nbsp;
+                        <Select dir={'ltr'} disableUnderline={true} variant={'standard'} value={shmiraListId}
                                 sx={{
                                     color: 'white',
                                     fontSize: '1.25rem',

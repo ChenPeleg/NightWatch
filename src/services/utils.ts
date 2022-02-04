@@ -229,32 +229,31 @@ export const Utils = {
         },
         get dateOfWeekObject() {
             return [
-                {
-                    name: 'ראשון',
+                {    name: 'Sunday',
                     weekDayNumber: 1
                 },
                 {
-                    name: 'שני',
+                    name: 'Monday',
                     weekDayNumber: 2
                 },
                 {
-                    name: 'שלישי',
+                    name: 'Tuesday',
                     weekDayNumber: 3
                 },
                 {
-                    name: 'רביעי',
+                    name: 'Wednesday',
                     weekDayNumber: 4
                 },
                 {
-                    name: 'חמישי',
+                    name: 'Thursday',
                     weekDayNumber: 5
                 },
                 {
-                    name: 'שישי',
+                    name: 'Friday',
                     weekDayNumber: 6
                 },
                 {
-                    name: 'שבת',
+                    name: 'Saturday',
                     weekDayNumber: 7
                 },
             ]

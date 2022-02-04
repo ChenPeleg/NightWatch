@@ -106,7 +106,7 @@ const MaterialUiForm = (muiFormProps: MuiFormPropsModel) => {
 
     return (
 
-        <form onSubmit={(...args) => submitting(...args)} dir={'rtl'}>
+        <form onSubmit={(...args) => submitting(...args)} dir={'ltr'}>
             <Box id={'form-wrapper'} sx={{
                 display: 'flex',
                 flexDirection: 'row',

@@ -18,7 +18,7 @@ export type ShmiraListReducerFunctions =
 
 const DefaultShmiraList: ShmiraListRecord = {
     id: '1',
-    Name: 'הרשימה החדשה שלי',
+    Name: 'My new guard roster',
     preferences: [],
     deletedPreferences: [],
     daysBetweenGuardDuty: defaultDaysBetweenGuardDuty,

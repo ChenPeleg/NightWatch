@@ -33,7 +33,7 @@ export const SketchPendingPreferences = (props: sketchPendingPreferencesProps) =
     const sketchInEdit: SketchModel = sketches.find(s => s.id === SketchIdInEdit) as SketchModel;
     const unassingedPreferences = sketchInEdit.unassignedPreferences;
     return (<Box id={'pending-preference-container'} sx={{
-            direction: 'rtl',
+            direction: 'ltr',
             m: '0.2em',
             mb: '0.3em',
             minHeight: '10vh',

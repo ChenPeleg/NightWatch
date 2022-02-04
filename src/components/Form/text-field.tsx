@@ -29,9 +29,9 @@ export const RenderTextField = (
     }: TextFieldPropertiesModel,
 ) => (
     <TextField variant={'standard'}
-               dir={'rtl'}
+               dir={'ltr'}
                style={{
-                   direction: 'rtl',
+                   direction: 'ltr',
 
                }}
                label={label}

@@ -84,7 +84,7 @@ export const SketchNight = (props: nightsProps) => {
                         //flexShrink: '4'
 
                     }}>
-                        <Typography dir="rtl"
+                        <Typography dir="ltr"
                                     variant={'subtitle1'}>{nightDateText} {dayOfWeek} </Typography>
 
 

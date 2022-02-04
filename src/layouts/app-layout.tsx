@@ -9,12 +9,12 @@ import {Loading} from '../components/Loading/loading';
 
 export const AppLayout = () => {
     // useLayoutEffect(() => {
-    //     document.body.setAttribute('dir', 'rtl');
+    //     document.body.setAttribute('dir', 'ltr');
     // }, [])
 
     return (
         <ThemeProvider theme={themeMain}>
-            <div className="app-background" dir={'rtl'}>
+            <div className="app-background" dir={'ltr'}>
                 <AppNavBar/>
                 <Loading/>
 

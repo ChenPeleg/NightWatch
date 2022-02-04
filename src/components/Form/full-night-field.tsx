@@ -48,9 +48,9 @@ export const RenderFullNightField = (
         <>
             <Typography component="legend">{LanguageUtilities.renderPassengerText(input.value)}</Typography>
             <StyledRating variant={'standard'}
-                          dir={'rtl'}
+                          dir={'ltr'}
                           style={{
-                              direction: 'rtl',
+                              direction: 'ltr',
 
                           }}
                           type="radio"

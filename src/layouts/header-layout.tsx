@@ -34,7 +34,7 @@ export const HeaderLayout = () => {
     return (
 
         <header>
-            <Box flexDirection="row" flexWrap="wrap" display="flex" alignItems="center" justifyContent="space-around" dir={'rtl'}>
+            <Box flexDirection="row" flexWrap="wrap" display="flex" alignItems="center" justifyContent="space-around" dir={'ltr'}>
                 <Box sx={{
                     ...
                         classes

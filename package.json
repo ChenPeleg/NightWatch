@@ -1,9 +1,9 @@
 {
-  "name": "night-watch",
+  "name": "NightWatch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chenpeleg.github.io/Shmira",
-  "homepage-gh-pages": "https://chenpeleg.github.io/Shmira",
+  "homepage": "https://chenpeleg.github.io/NightWatch",
+  "homepage-gh-pages": "https://chenpeleg.github.io/NightWatch",
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",

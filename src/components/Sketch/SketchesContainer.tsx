@@ -146,7 +146,7 @@ export const SketchesContainer = () => {
                     }}
                 >    &nbsp;
                     {translations.Sketch} &nbsp;
-                    <Select dir={'rtl'} disableUnderline={true} variant={'standard'} value={SketchIdInEdit}
+                    <Select dir={'ltr'} disableUnderline={true} variant={'standard'} value={SketchIdInEdit}
                             sx={{
                                 //  color: 'black',
                                 fontSize: '1.25rem',

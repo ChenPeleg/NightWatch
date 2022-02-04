@@ -129,7 +129,7 @@ export const LocationGroupEditWrapper = () => {
                     }}
                 >    &nbsp;
                     {translations.LocationBase} &nbsp;
-                    <Select dir={'rtl'} disableUnderline={true} variant={'standard'} value={locationGroupInEditId}
+                    <Select dir={'ltr'} disableUnderline={true} variant={'standard'} value={locationGroupInEditId}
                             sx={{
                                 //  color: 'black',
                                 fontSize: '1.25rem',
