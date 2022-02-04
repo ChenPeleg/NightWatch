@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Shmira/static/css/main.88f3e5ce.chunk.css",
-    "main.js": "/Shmira/static/js/main.31610b25.chunk.js",
-    "main.js.map": "/Shmira/static/js/main.31610b25.chunk.js.map",
-    "runtime-main.js": "/Shmira/static/js/runtime-main.55de2b3a.js",
-    "runtime-main.js.map": "/Shmira/static/js/runtime-main.55de2b3a.js.map",
-    "static/js/2.abadf9f6.chunk.js": "/Shmira/static/js/2.abadf9f6.chunk.js",
-    "static/js/2.abadf9f6.chunk.js.map": "/Shmira/static/js/2.abadf9f6.chunk.js.map",
-    "static/js/3.aeded4a1.chunk.js": "/Shmira/static/js/3.aeded4a1.chunk.js",
-    "static/js/3.aeded4a1.chunk.js.map": "/Shmira/static/js/3.aeded4a1.chunk.js.map",
-    "index.html": "/Shmira/index.html",
-    "static/css/main.88f3e5ce.chunk.css.map": "/Shmira/static/css/main.88f3e5ce.chunk.css.map",
-    "static/js/2.abadf9f6.chunk.js.LICENSE.txt": "/Shmira/static/js/2.abadf9f6.chunk.js.LICENSE.txt",
-    "static/media/Assistant-Regular.e0bb8a20.ttf": "/Shmira/static/media/Assistant-Regular.e0bb8a20.ttf"
+    "main.css": "/NightWatch/static/css/main.88f3e5ce.chunk.css",
+    "main.js": "/NightWatch/static/js/main.05891c5a.chunk.js",
+    "main.js.map": "/NightWatch/static/js/main.05891c5a.chunk.js.map",
+    "runtime-main.js": "/NightWatch/static/js/runtime-main.ab721b14.js",
+    "runtime-main.js.map": "/NightWatch/static/js/runtime-main.ab721b14.js.map",
+    "static/js/2.8ba5539a.chunk.js": "/NightWatch/static/js/2.8ba5539a.chunk.js",
+    "static/js/2.8ba5539a.chunk.js.map": "/NightWatch/static/js/2.8ba5539a.chunk.js.map",
+    "static/js/3.0209e6a5.chunk.js": "/NightWatch/static/js/3.0209e6a5.chunk.js",
+    "static/js/3.0209e6a5.chunk.js.map": "/NightWatch/static/js/3.0209e6a5.chunk.js.map",
+    "index.html": "/NightWatch/index.html",
+    "static/css/main.88f3e5ce.chunk.css.map": "/NightWatch/static/css/main.88f3e5ce.chunk.css.map",
+    "static/js/2.8ba5539a.chunk.js.LICENSE.txt": "/NightWatch/static/js/2.8ba5539a.chunk.js.LICENSE.txt",
+    "static/media/Assistant-Regular.e0bb8a20.ttf": "/NightWatch/static/media/Assistant-Regular.e0bb8a20.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.55de2b3a.js",
-    "static/js/2.abadf9f6.chunk.js",
+    "static/js/runtime-main.ab721b14.js",
+    "static/js/2.8ba5539a.chunk.js",
     "static/css/main.88f3e5ce.chunk.css",
-    "static/js/main.31610b25.chunk.js"
+    "static/js/main.05891c5a.chunk.js"
   ]
 }
