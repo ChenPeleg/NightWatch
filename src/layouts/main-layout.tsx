@@ -37,7 +37,7 @@ export const MainLayout = () => {
 
     return (
 
-        <main>
+        <main style={{marginLeft:'30px'}} >
             <Box sx={{margin: '20px'}} flexDirection="row" display="flex" alignItems="datesYouCanGuard" justifyContent="datesYouCanGuard">
 
                 {displaySketches ?
