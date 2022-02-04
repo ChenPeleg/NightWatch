@@ -9,7 +9,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-    direction: rtl;
+    /*direction: rtl;*/
     width: 5px;
     height: 10px;
     border-radius: 10px;
